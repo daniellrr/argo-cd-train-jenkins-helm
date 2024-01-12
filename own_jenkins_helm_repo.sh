@@ -4,7 +4,7 @@
 BITNAMI_REPO="https://github.com/bitnami/charts.git"
 
 # Specify your Git repository URL
-YOUR_REPO="https://github.com/daniellrr/argo-cd-train-jenkins-helm.git"
+YOUR_REPO="git@github.com:daniellrr/argo-cd-train-jenkins-helm.git"
 
 # Specify the Helm chart name
 HELM_CHART_NAME="jenkins"
