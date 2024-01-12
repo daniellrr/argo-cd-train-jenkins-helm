@@ -20,6 +20,7 @@ git init
 
 # Add your Git repository as a remote
 git remote add origin $YOUR_REPO
+git remote set-url origin git@github.com:daniellrr/argo-cd-train-jenkins-helm.git
 
 # Commit the existing files
 git add .
